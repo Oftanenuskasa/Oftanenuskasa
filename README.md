@@ -21,24 +21,36 @@ I'm a passionate **Software Developer** focused on building dynamic and efficien
 ### 🛠️ Languages and Tools:
 
 <p align="left">
-  <img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript">
-  <img src="https://img.shields.io/badge/-Python-333333?style=flat&logo=python">
-  <img src="https://img.shields.io/badge/-React-333333?style=flat&logo=react">
-  <img src="https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js">
-  <img src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git">
-  <img src="https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker">
-  <img src="https://img.shields.io/badge/-VSCode-333333?style=flat&logo=visual-studio-code">
+  <img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript" title="JavaScript" alt="JavaScript Badge">
+  <img src="https://img.shields.io/badge/-Python-333333?style=flat&logo=python" title="Python" alt="Python Badge">
+  <img src="https://img.shields.io/badge/-React-333333?style=flat&logo=react" title="React" alt="React Badge">
+  <img src="https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js" title="Node.js" alt="Node.js Badge">
+  <img src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git" title="Git" alt="Git Badge">
+  <img src="https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker" title="Docker" alt="Docker Badge">
+  <img src="https://img.shields.io/badge/-VSCode-333333?style=flat&logo=visual-studio-code" title="VS Code" alt="VS Code Badge">
 </p>
 
 ---
 
 ### 🌐 Connect with Me:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oftanenus-kasa-4692aa257/)
-[![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat-square&logo=github)](https://github.com/Oftanenuskasa)
-[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://web.facebook.com/asreskesa.asreskesa/)
-[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Oftanenuskasa)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:oftanenus@example.com)
+<p align="left">
+  <a href="https://www.linkedin.com/in/oftanenus-kasa-4692aa257/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/Oftanenuskasa" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-333333?style=flat-square&logo=github" alt="GitHub">
+  </a>
+  <a href="https://web.facebook.com/Oftanenuskasa/" target="_blank">
+    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook">
+  </a>
+  <a href="https://t.me/Oftanenuskasa" target="_blank">
+    <img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram">
+  </a>
+  <a href="mailto:oftanenus@example.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
 
 ---
 
@@ -87,3 +99,11 @@ Here are some of the projects I'm proud of:
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Oftanenuskasa&color=blue&style=flat-square">
 </p>
+
+---
+
+### 💫 Scroll Down for More!
+
+![Scroll Down Animation](https://media.giphy.com/media/xT0xeuOy6uAcO89y6M/giphy.gif)
+
+*Feel free to explore my projects and reach out to connect!*
