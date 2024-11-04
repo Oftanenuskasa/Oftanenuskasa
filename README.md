@@ -1,6 +1,6 @@
 # Hi there, I'm Oftanenus Kasa! 👋
 
-![Your Photo](oftanenuskasa)
+![Your Photo](https://z-p3-scontent.fadd2-1.fna.fbcdn.net/v/t39.30808-6/461327921_1924092578003254_2405530486380552276_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeG19DuL6UAz-depgIqY1Bif2bTarZxuvVXZtNqtnG69VTsRm235f9gk0VVFcS92FsIF-BO1QwswRZ8axiIaH3oF&_nc_ohc=rousB6ixSk4Q7kNvgHjdZox&_nc_zt=23&_nc_ht=z-p3-scontent.fadd2-1.fna&_nc_gid=ATRWgxu9I_t-8g_cMeKNPlh&oh=00_AYAJffNmEW3SMitJTWE4WJJtawWTNQZEK_Q2RTmHG69qFA&oe=672EECF2)
 
 ![Welcome](https://img.shields.io/badge/Welcome_to_my_profile!-blue?style=for-the-badge&logo=github)
 
