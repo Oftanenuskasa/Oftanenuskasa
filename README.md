@@ -1,5 +1,7 @@
 # Hi there, I'm Oftanenus Kasa! 👋
 
+![Your Photo](oftanenuskasa)
+
 ![Welcome](https://img.shields.io/badge/Welcome_to_my_profile!-blue?style=for-the-badge&logo=github)
 
 I'm a passionate **Software Developer** focused on building dynamic and efficient applications. I love exploring new technologies and continuously improving my skills to deliver impactful solutions.
