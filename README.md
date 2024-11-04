@@ -21,13 +21,27 @@ I'm a passionate **Software Developer** focused on building dynamic and efficien
 ### 🛠️ Languages and Tools:
 
 <p align="left">
-  <img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript" title="JavaScript" alt="JavaScript Badge">
-  <img src="https://img.shields.io/badge/-Python-333333?style=flat&logo=python" title="Python" alt="Python Badge">
-  <img src="https://img.shields.io/badge/-React-333333?style=flat&logo=react" title="React" alt="React Badge">
-  <img src="https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js" title="Node.js" alt="Node.js Badge">
-  <img src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git" title="Git" alt="Git Badge">
-  <img src="https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker" title="Docker" alt="Docker Badge">
-  <img src="https://img.shields.io/badge/-VSCode-333333?style=flat&logo=visual-studio-code" title="VS Code" alt="VS Code Badge">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript" title="JavaScript" alt="JavaScript Badge">
+  </a>
+  <a href="https://www.python.org/doc/" target="_blank">
+    <img src="https://img.shields.io/badge/-Python-333333?style=flat&logo=python" title="Python" alt="Python Badge">
+  </a>
+  <a href="https://reactjs.org/docs/getting-started.html" target="_blank">
+    <img src="https://img.shields.io/badge/-React-333333?style=flat&logo=react" title="React" alt="React Badge">
+  </a>
+  <a href="https://nodejs.org/en/docs/" target="_blank">
+    <img src="https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js" title="Node.js" alt="Node.js Badge">
+  </a>
+  <a href="https://git-scm.com/doc" target="_blank">
+    <img src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git" title="Git" alt="Git Badge">
+  </a>
+  <a href="https://docs.docker.com/" target="_blank">
+    <img src="https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker" title="Docker" alt="Docker Badge">
+  </a>
+  <a href="https://code.visualstudio.com/docs" target="_blank">
+    <img src="https://img.shields.io/badge/-VSCode-333333?style=flat&logo=visual-studio-code" title="VS Code" alt="VS Code Badge">
+  </a>
 </p>
 
 ---
