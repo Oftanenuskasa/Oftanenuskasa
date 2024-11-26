@@ -1,125 +1,193 @@
-# Hi there, I'm Oftanenus Kasa! 👋
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        @keyframes gradient {
+            0% { background-position: 0% 50%; }
+            50% { background-position: 100% 50%; }
+            100% { background-position: 0% 50%; }
+        }
 
-<img src="https://z-p3-scontent.fadd2-1.fna.fbcdn.net/v/t39.30808-6/461327921_1924092578003254_2405530486380552276_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeG19DuL6UAz-depgIqY1Bif2bTarZxuvVXZtNqtnG69VTsRm235f9gk0VVFcS92FsIF-BO1QwswRZ8axiIaH3oF&_nc_ohc=rousB6ixSk4Q7kNvgHjdZox&_nc_zt=23&_nc_ht=z-p3-scontent.fadd2-1.fna&_nc_gid=ATRWgxu9I_t-8g_cMeKNPlh&oh=00_AYAJffNmEW3SMitJTWE4WJJtawWTNQZEK_Q2RTmHG69qFA&oe=672EECF2" alt="Your Photo" width="150" style="border-radius: 50%;">
+        @keyframes float {
+            0% { transform: translateY(0px); }
+            50% { transform: translateY(-20px); }
+            100% { transform: translateY(0px); }
+        }
 
-![Welcome](https://img.shields.io/badge/Welcome_to_my_profile!-blue?style=for-the-badge&logo=github)
+        @keyframes glow {
+            0% { box-shadow: 0 0 5px #4CAF50; }
+            50% { box-shadow: 0 0 20px #4CAF50; }
+            100% { box-shadow: 0 0 5px #4CAF50; }
+        }
 
-I'm a passionate **Software Developer** focused on building dynamic and efficient applications. I love exploring new technologies and continuously improving my skills to deliver impactful solutions.
+        .profile-container {
+            background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+            background-size: 400% 400%;
+            animation: gradient 15s ease infinite;
+            padding: 2rem;
+            border-radius: 15px;
+            color: white;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00C7FD&width=435&lines=Full+Stack+Developer;React+Enthusiast;JavaScript+%26+Python+Lover)
+        .profile-header {
+            text-align: center;
+            margin-bottom: 2rem;
+        }
 
----
+        .profile-image {
+            width: 200px;
+            height: 200px;
+            border-radius: 50%;
+            border: 5px solid white;
+            animation: float 6s ease-in-out infinite;
+            margin: 20px auto;
+            display: block;
+            box-shadow: 0 0 15px rgba(0,0,0,0.3);
+        }
 
-### 💼 About Me:
+        .skill-container {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+            justify-content: center;
+            margin: 20px 0;
+        }
 
-- 🔭 I was an **Intern** at **Xion Computing PLC**, focused on **web development using React**.
-- 🌱 Currently enhancing my skills in **React, Node.js, and Cloud Computing**.
-- 👨‍💻 I’m open to collaborating on **Full Stack Projects**.
-- 💬 Ask me anything about **web development, backend systems, or cloud solutions**.
-- ⚡ Fun fact: I enjoy debugging as much as coding!
+        .skill-badge {
+            padding: 8px 15px;
+            border-radius: 20px;
+            background: rgba(255, 255, 255, 0.1);
+            backdrop-filter: blur(10px);
+            border: 1px solid rgba(255, 255, 255, 0.2);
+            transition: all 0.3s ease;
+        }
 
----
+        .skill-badge:hover {
+            transform: scale(1.1);
+            background: rgba(255, 255, 255, 0.2);
+        }
 
-### 🛠️ Languages and Tools:
+        .stats-container {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 20px;
+            margin: 20px 0;
+        }
 
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript" title="JavaScript" alt="JavaScript Badge">
-  </a>
-  <a href="https://www.python.org/doc/" target="_blank">
-    <img src="https://img.shields.io/badge/-Python-333333?style=flat&logo=python" title="Python" alt="Python Badge">
-  </a>
-  <a href="https://reactjs.org/docs/getting-started.html" target="_blank">
-    <img src="https://img.shields.io/badge/-React-333333?style=flat&logo=react" title="React" alt="React Badge">
-  </a>
-  <a href="https://nodejs.org/en/docs/" target="_blank">
-    <img src="https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js" title="Node.js" alt="Node.js Badge">
-  </a>
-  <a href="https://git-scm.com/doc" target="_blank">
-    <img src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git" title="Git" alt="Git Badge">
-  </a>
-  <a href="https://docs.docker.com/" target="_blank">
-    <img src="https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker" title="Docker" alt="Docker Badge">
-  </a>
-  <a href="https://code.visualstudio.com/docs" target="_blank">
-    <img src="https://img.shields.io/badge/-VSCode-333333?style=flat&logo=visual-studio-code" title="VS Code" alt="VS Code Badge">
-  </a>
-</p>
+        .stats-card {
+            background: rgba(255, 255, 255, 0.1);
+            padding: 20px;
+            border-radius: 10px;
+            backdrop-filter: blur(10px);
+            animation: glow 3s infinite;
+        }
 
----
+        .project-card {
+            background: rgba(255, 255, 255, 0.1);
+            padding: 20px;
+            border-radius: 10px;
+            margin: 10px 0;
+            transition: transform 0.3s ease;
+        }
 
-### 🌐 Connect with Me:
+        .project-card:hover {
+            transform: translateX(10px);
+        }
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/oftanenus-kasa-4692aa257/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/Oftanenuskasa" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-333333?style=flat-square&logo=github" alt="GitHub">
-  </a>
-  <a href="https://web.facebook.com/Oftanenuskasa/" target="_blank">
-    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook">
-  </a>
-  <a href="https://t.me/Oftanenuskasa" target="_blank">
-    <img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram">
-  </a>
-  <a href="mailto:oftanenus@example.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
+        .social-links {
+            display: flex;
+            justify-content: center;
+            gap: 15px;
+            margin: 20px 0;
+        }
 
----
+        .social-icon {
+            width: 40px;
+            height: 40px;
+            border-radius: 50%;
+            background: white;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            transition: transform 0.3s ease;
+        }
 
-### 🔥 My GitHub Stats:
+        .social-icon:hover {
+            transform: scale(1.2);
+        }
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Oftanenuskasa&show_icons=true&theme=radical&count_private=true" alt="Oftanenus's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oftanenuskasa&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+        .typing-text {
+            border-right: 2px solid white;
+            white-space: nowrap;
+            overflow: hidden;
+            animation: typing 3.5s steps(40, end), blink-caret 0.75s step-end infinite;
+        }
 
----
+        @keyframes typing {
+            from { width: 0 }
+            to { width: 100% }
+        }
 
-### 🚀 My Projects:
+        @keyframes blink-caret {
+            from, to { border-color: transparent }
+            50% { border-color: white }
+        }
+    </style>
+</head>
+<body>
+    <div class="profile-container">
+        <div class="profile-header">
+            <img src="https://z-p3-scontent.fadd2-1.fna.fbcdn.net/v/t39.30808-6/461327921_1924092578003254_2405530486380552276_n.jpg" alt="Oftanenus Kasa" class="profile-image">
+            <h1 class="typing-text">Hi, I'm Oftanenus Kasa! 👋</h1>
+            <p>Full Stack Developer | React Enthusiast | JavaScript & Python Lover</p>
+        </div>
 
-Here are some of the projects I'm proud of:
+        <div class="skill-container">
+            <div class="skill-badge">JavaScript</div>
+            <div class="skill-badge">Python</div>
+            <div class="skill-badge">React</div>
+            <div class="skill-badge">Node.js</div>
+            <div class="skill-badge">Docker</div>
+            <div class="skill-badge">Git</div>
+        </div>
 
-- [**Inventory Management System**](#): A system designed to help businesses manage inventory, track stock levels, and automate ordering processes.
-- [**School Management System**](#): A platform that allows schools to manage students, staff, exams, and other academic processes efficiently.
-- [**Resident Management System**](#): A tool for managing residents in housing complexes or residential buildings, including billing, maintenance, and communication.
-- More exciting projects to come!
+        <div class="stats-container">
+            <div class="stats-card">
+                <h3>About Me</h3>
+                <p>🔭 Former Intern at Xion Computing PLC</p>
+                <p>🌱 Currently learning Cloud Computing</p>
+                <p>👨‍💻 Open to collaboration</p>
+            </div>
+            <div class="stats-card">
+                <h3>GitHub Stats</h3>
+                <!-- Add your GitHub stats here -->
+            </div>
+        </div>
 
----
+        <h2>Featured Projects</h2>
+        <div class="project-card">
+            <h3>Inventory Management System</h3>
+            <p>A comprehensive system for business inventory management</p>
+        </div>
+        <div class="project-card">
+            <h3>School Management System</h3>
+            <p>Efficient platform for academic institution management</p>
+        </div>
 
-### 🎯 Fun with GitHub:
-
-- 🏆 **GitHub Streak**:  
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Oftanenuskasa&theme=radical&hide_border=true"/>
-</p>
-
-- 🌟 **Trophies**:  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Oftanenuskasa&theme=radical&no-bg=true"/>
-</p>
-
----
-
-### 🖼️ Latest Activity on GitHub:
-
-![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Oftanenuskasa&bg_color=1a1b27&color=9e4c98&line=5BCDEC&point=F8D847&area_color=8E2DE2&area=true)
-
----
-
-### 📈 Visitor Count:
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Oftanenuskasa&color=blue&style=flat-square">
-</p>
-
----
-
-### 💫 Scroll Down for More!
-
-![Scroll Down Animation](https://media.giphy.com/media/xT0xeuOy6uAcO89y6M/giphy.gif)
-
-*Feel free to explore my projects and reach out to connect!*
+        <div class="social-links">
+            <a href="https://www.linkedin.com/in/oftanenus-kasa-4692aa257/" class="social-icon">
+                <img src="linkedin-icon.png" alt="LinkedIn">
+            </a>
+            <a href="https://github.com/Oftanenuskasa" class="social-icon">
+                <img src="github-icon.png" alt="GitHub">
+            </a>
+            <a href="https://web.facebook.com/Oftanenuskasa/" class="social-icon">
+                <img src="facebook-icon.png" alt="Facebook">
+            </a>
+        </div>
+    </div>
+</body>
+</html>
