@@ -1,70 +1,74 @@
-    <div class="section">
-        <h2>👨‍💻 Professional Summary</h2>
-        <p>Dedicated Full Stack Developer with expertise in React, JavaScript, and Python. Former intern at Xion Computing PLC, currently expanding knowledge in Cloud Computing and actively seeking collaborative opportunities.</p>
-    </div>
+<div align="center">
+  
+# Oftanenus Kasa
+### Full Stack Developer | React Specialist | JavaScript & Python Engineer
 
-    <div class="section">
-        <h2>🛠️ Technical Stack</h2>
-        <div class="skills-grid">
-            <div class="skill-category">
-                <h3>Frontend</h3>
-                <ul class="skill-list">
-                    <li>React.js</li>
-                    <li>JavaScript (ES6+)</li>
-                    <li>HTML5/CSS3</li>
-                    <li>SCSS</li>
-                    <li>Responsive Design</li>
-                </ul>
-            </div>
-            <div class="skill-category">
-                <h3>Backend</h3>
-                <ul class="skill-list">
-                    <li>Node.js</li>
-                    <li>Python</li>
-                    <li>RESTful APIs</li>
-                    <li>Database Management</li>
-                </ul>
-            </div>
-            <div class="skill-category">
-                <h3>Tools & Technologies</h3>
-                <ul class="skill-list">
-                    <li>Git & GitHub</li>
-                    <li>Docker</li>
-                    <li>Cloud Platforms</li>
-                    <li>Development Tools</li>
-                </ul>
-            </div>
-        </div>
-    </div>
+</div>
 
-    <div class="section">
-        <h2>💼 Featured Projects</h2>
-        <div class="projects">
-            <div class="project-card">
-                <h3>Inventory Management System</h3>
-                <p>Full-stack inventory solution for businesses</p>
-                <p><strong>Technologies:</strong> React, Node.js, MongoDB</p>
-                <p><strong>Features:</strong> Real-time tracking, analytics, reporting</p>
-            </div>
-            <div class="project-card">
-                <h3>School Management System</h3>
-                <p>Comprehensive educational institution management platform</p>
-                <p><strong>Technologies:</strong> Python, Django, PostgreSQL</p>
-                <p><strong>Features:</strong> Student management, attendance tracking, grade management</p>
-            </div>
-        </div>
-    </div>
+## 👨‍💻 Professional Summary
+Dedicated Full Stack Developer with expertise in React, JavaScript, and Python. Former intern at Xion Computing PLC, currently expanding knowledge in Cloud Computing and actively seeking collaborative opportunities.
 
-    <div class="section">
-        <h2>📫 Contact</h2>
-        <div class="contact">
-            <a href="https://www.linkedin.com/in/oftanenus-kasa-4692aa257/" target="_blank">LinkedIn</a>
-            <a href="https://github.com/Oftanenuskasa" target="_blank">GitHub</a>
-            <a href="https://web.facebook.com/Oftanenuskasa/" target="_blank">Facebook</a>
-        </div>
-    </div>
+## 🛠️ Technical Stack
+### Frontend Development
+- React.js
+- JavaScript (ES6+)
+- HTML5/CSS3
+- SCSS
+- Responsive Design
 
-    <div class="quote">
-        "Code is like humor. When you have to explain it, it's bad." - Cory House
-    </div>
+### Backend Development
+- Node.js
+- Python
+- RESTful APIs
+- Database Management
+
+### Tools & Technologies
+- Git & GitHub
+- Docker
+- Cloud Platforms
+- Development Tools
+
+## 🎯 Current Focus
+- 🔭 Advancing Cloud Computing expertise
+- 🌱 Building scalable web applications
+- 👯 Contributing to open-source projects
+- 🚀 Exploring new technologies
+
+## 💼 Featured Projects
+
+### 1. Inventory Management System
+- Full-stack inventory solution for businesses
+- **Technologies:** React, Node.js, MongoDB
+- **Features:** Real-time tracking, analytics, reporting
+
+### 2. School Management System
+- Comprehensive educational institution management platform
+- **Technologies:** Python, Django, PostgreSQL
+- **Features:** Student management, attendance tracking, grade management
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Oftanenuskasa&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Oftanenuskasa&layout=compact&theme=radical)
+
+</div>
+
+## 🤝 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oftanenus-kasa-4692aa257/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Oftanenuskasa)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/Oftanenuskasa/)
+
+## 📫 Contact & Location
+- 📍 Location: Ethiopia
+- 💼 Open for: Collaboration, Project Opportunities, Technical Discussions
+
+---
+
+<div align="center">
+  
+### ⚡ *"Code is like humor. When you have to explain it, it's bad."* - Cory House
+
 </div>
